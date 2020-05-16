@@ -64,7 +64,6 @@ class _MyHomePageState extends State<MyHomePage> {
                 ));},
                 child: Text("tidak punya akun, silahkan kesini"),
               ),
-              //JANGAN LUPA PAKE HELM
             ],
           ),
         )
